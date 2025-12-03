@@ -1,4 +1,4 @@
-# Task 1 -  Basic Methematical Openrations
+# Task 1 -  Basic Methematical Operations
 1. First take the input  two numbers from user.
 2. Convert these number into Integer 
 3. Perform the Mathematical Operation like Addition, Subtraction, Multiplication and Division and saved the result in respective variables.
