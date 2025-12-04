@@ -1,6 +1,3 @@
-"""
-Task1_Basic_Mathematical_Operation
-"""
 # Take input from users and convert into string into integer
 
 first_number=int(input("Enter the first number: "))
