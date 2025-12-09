@@ -20,3 +20,13 @@
 2. For loop with using the range 1 to 51 to get the total of 1 to 50 becuase last number of range is excluded
 3. Print the sum of numbers 1 to 50
 
+# Assignment 3 => Task 1 - Calculate factorial
+1. First create a recursion fuction to calculate the factorial.
+2. Than take the input  a number from user.
+3. Call the created function by passing the user input
+4. Print the result
+
+# Assignment 3 => Task 2 - Use Math Module to do some calculation
+1. First import the math module
+2. Than take the input  a number from user.
+3. Then call the methods of math module and pass the user input to calculate by printing the result.
