@@ -30,3 +30,13 @@
 1. First import the math module
 2. Than take the input  a number from user.
 3. Then call the methods of math module and pass the user input to calculate by printing the result.
+
+# Assignment 4 => Task 1 - Read file and handle errors.
+1.  Opens and reads a text file named sample.txt.
+2.  Prints its content line by line.
+3.  Handles errors gracefully if the file does not exist.
+
+# Assignment 4 => Task 2 - Write and append data into file.
+1.   Takes user input and writes it to a file named output.txt.
+2.   Appends additional data to the same file.
+3.   Reads and displays the final content of the file. 
