@@ -52,3 +52,7 @@
 2.   Extracts the first five elements from the list.
 3.   Reverses these extracted elements.
 4.   Prints both the extracted list and the reversed list
+
+# Assignment 6 => Task 1 - Creates a simple calculator GUI using Tkinter.
+1.   Creates a simple calculator GUI using Tkinter.
+2.   Supports basic arithmetic operations: addition, subtraction, multiplication, and division. 
