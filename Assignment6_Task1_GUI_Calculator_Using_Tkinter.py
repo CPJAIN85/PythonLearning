@@ -105,12 +105,20 @@ def equal():
 b=Button(root,text="=",width=12,command=equal)    
 b.place(x=280,y=220)
 
+def decimal():
+    result=entry1.get()   
+    entry1.delete(0,END)
+    entry1.insert(0,str(result)+str("."))
+
+b=Button(root,text=".",width=12,command=decimal)
+b.place(x=20,y=280)
+
 def clear():
     entry1.delete(0,END)    
 
 
-b=Button(root,text="Clear",width=50,command=clear)    
-b.place(x=20,y=280)
+b=Button(root,text="Clear",width=30,command=clear)    
+b.place(x=150,y=280)
 
 
 # def add():
